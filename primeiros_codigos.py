@@ -22,3 +22,9 @@ print(soma)
 quadrado = soma**2
 print(quadrado)
 
+print("A soma é:", soma, "e o quadrado da soma é:", quadrado)
+
+### False e True
+
+print(soma==8)
+
