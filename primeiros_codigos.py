@@ -28,3 +28,10 @@ print("A soma é:", soma, "e o quadrado da soma é:", quadrado)
 
 print(soma==8)
 
+### If e else
+
+if soma == 8:
+    print("A soma é 8!")
+else:
+    print("A soma não é 8!")
+
