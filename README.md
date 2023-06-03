@@ -8,7 +8,7 @@ O Python foi criado em 1991 e atualmente é uma das linguagens mais utilizadas n
 uso da inteligância artificial e da ciência de dados. Linguagem de programação funciona através de códigos que nós escrevemos e o
 software lerá esse código e executará ações através das instruções que passamos.
 
-### Tópicos:
+### Tópicos
 
 1. Textos;
 2. Operações matemáticas;
