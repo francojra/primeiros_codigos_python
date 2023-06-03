@@ -19,8 +19,8 @@ software lerá esse código e executará ações através das instruções que p
 
 ### Referências
 
-- [Aprenda Python em 10 minutos! (Para iniciantes)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
-- [Curso de Python para Iniciantes (AULA 1)](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD)
+1. [Aprenda Python em 10 minutos! (Para iniciantes)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
+2. [Curso de Python para Iniciantes (AULA 1)](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD)
 
 
 
