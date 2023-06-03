@@ -8,7 +8,8 @@ print("Olá, mundo!")
 
 print(5 + 3)
 print(8 * 2)
-print(5**3) # 5 elevado a 3
+print(5 ** 3) # 5 elevado a 3
+print(6 - 3)
 print(8 / 2)
 
 ### Criação de variáveis
@@ -35,3 +36,7 @@ if soma == 8:
 else:
     print("A soma não é 8!")
 
+### Argumento for: serve para fazer várias operações ao mesmo tempo
+
+for n in range(5):
+    print(n)
