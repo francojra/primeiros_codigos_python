@@ -4,7 +4,7 @@
 
 print("Olá, mundo!")
 
-### Contas matemáticas
+### Operações matemáticas
 
 print(5 + 3)
 print(8 * 2)
@@ -36,7 +36,10 @@ if soma == 8:
 else:
     print("A soma não é 8!")
 
-### Argumento for: serve para fazer várias operações ao mesmo tempo
+### Comando for: serve para fazer várias operações ao mesmo tempo
 
 for n in range(5):
     print(n)
+    
+for n in range(5):
+    print("Gostei dessa aula de Python.")
