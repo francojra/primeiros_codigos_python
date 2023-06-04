@@ -1,8 +1,6 @@
 # Exercício 1 - Python para iniciantes
 
-## Etapas iniciais
-
-### O texto precisa estar dentro das aspas.
+### Textos (precisam estar dentro das aspas)
 
 print("Olá mundo!")
 print("Didática tech")
@@ -18,3 +16,9 @@ print(9 / 5)
 print(6 - 3)
 print(17 / 3)
 print(5 % 2) # Resto da divisão
+
+### Criando variáveis
+
+a = 5
+print(a)
+a == 3 # Pergunta se a é igual a 5, a resposta é "true" ou "false"
