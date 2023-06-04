@@ -2,5 +2,6 @@
 
 print("Olá mundo!")
 print("Didática tech")
+print("oi", "tudo bem?")
 
 ## O texto precisa estar dentro das aspas.
