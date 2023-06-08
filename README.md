@@ -14,8 +14,10 @@ software lerá esse código e executará ações através das instruções que p
 2. Operações matemáticas;
 3. Criação de variáveis;
 4. False e True;
-5. If e else;
-6. Comando for: serve para fazer várias operações ao mesmo tempo.
+5. Condidionais If e else;
+6. Comandos for e range: serve para fazer várias operações ao mesmo tempo;
+7. Comandos while e break;
+8. Módulos e Bibliotecas Python.
 
 ### Referências
 
