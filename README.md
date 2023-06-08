@@ -17,7 +17,8 @@ software lerá esse código e executará ações através das instruções que p
 5. Condidionais If e else;
 6. Comandos for e range: serve para fazer várias operações ao mesmo tempo;
 7. Comandos while e break;
-8. Módulos e Bibliotecas Python.
+8. Módulos e Bibliotecas Python;
+9. Criando funções em Python.
 
 ### Referências
 
